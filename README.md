@@ -1,6 +1,4 @@
 # SI506-and-SI507_Starting-with-Python
-Code written as learning in Python
-
 Code in this folder were written as part of learning Python from scratch in 2017.
 
 | Contents  | Description |
