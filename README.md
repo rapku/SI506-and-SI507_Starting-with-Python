@@ -1,5 +1,5 @@
 # SI506-and-SI507_Starting-with-Python
-Code in this folder were written as part of learning Python from scratch in 2017.
+Code in this repository were written as part of learning Python from scratch in 2017.
 
 | Contents  | Description |
 | ------------- | ------------- |
