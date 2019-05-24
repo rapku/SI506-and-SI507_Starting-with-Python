@@ -10,10 +10,10 @@ if len(a) != 3:
 	a = [a[0], usertocheck, tweetstocheck]
 
 #Authentication thing
-consumerkey = 'S5JPsiMVkj2U9cOnTw2PTV48k'
-consumersecret = '1LlYhly3n6LQU3NvkW34pgiq5sjuWFGC68twuOucQAq0J7pohY'
-accesskey = '928451725379473408-gJrWpZxUnSUye3OfEezDDMdmRm3kNrN'
-accesssecret = 'x2qzVcqUssB1KHHoJFsI4iO1zlIPC9QbBVPwOOTNAvTfO'
+consumerkey = ''
+consumersecret = ''
+accesskey = ''
+accesssecret = ''
 auth = tweepy.OAuthHandler(consumerkey, consumersecret)
 auth.set_access_token(accesskey, accesssecret)
 api = tweepy.API(auth)
